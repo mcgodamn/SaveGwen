@@ -1,0 +1,16 @@
+{
+    "webSpeed":100000,
+    "webDistance":0.5,
+    "webJointFreq": 100000,
+    "webJointDump": 0,
+    "spawnTime": 0.03,
+    "winTime": 10,
+    "loseCountDown":2,
+    "breakAngle": 90,
+    "breakDis":3,
+    "gwenJointFreq": 1,
+    "gwenJointDump": 1,
+    "gwenMass": 5,
+    "gwenLinearDrag":1,
+    "gwenAngularDrag":2
+}
